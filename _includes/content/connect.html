@@ -71,21 +71,21 @@ a:active {
                 <div class="mdui-typo">
                     <hr/>
                 </div>
-                <a href="{{site.data.love.header.siteurl}}" target="_blank">
-                    <img class="avatar mdui-center" src="{{site.data.love.header.favicon}}"/>
+                <a href="{{site.data.connect.header.siteurl}}" target="_blank">
+                    <img class="avatar mdui-center" src="{{site.data.connect.header.favicon}}"/>
                 </a>
                     <div class="mdui-card-primary">
                         <h1 class="padding-bottom-8px mdui-card-primary-title name mdui-text-center">
-                <a href="{{site.data.love.header.siteurl}}" target="_blank">
+                <a href="{{site.data.connect.header.siteurl}}" target="_blank">
                 <font color="black">
                             1111111111111111111111
                 </font>
                 </a>
                         </h1>
                         <div class="padding-bottom-8px primary-title mdui-card-primary-subtitle mdui-text-center">
-                <a href="{{site.data.love.header.siteurl}}" target="_blank">
+                <a href="{{site.data.connect.header.siteurl}}" target="_blank">
                 <font color="black">
-                            {{site.data.love.header.introduction}}
+                            {{site.data.connect.header.introduction}}
                 </font>
                 </a>
                         </div>
@@ -93,7 +93,7 @@ a:active {
             </div>
             </br>
             </br>
-            {% if site.data.love.photo.photo == true %}
+            {% if site.data.connect.photo.photo == true %}
             <div class=" animated flipInX lazyload mdui-card mdui-shadow-{{site.data.site.card.card_shadow}} {% if site.data.site.card.card_hoverable == true%}mdui-hoverable{% endif %}">
                 <div class="mdui-card-primary-title title">
                     MORE
@@ -102,7 +102,7 @@ a:active {
                     <hr/>
                 </div>
                 <div class="mdui-col-md-12 mdui-col-sm-12">
-                    {% for picture in site.data.love.photo.pictures %}
+                    {% for picture in site.data.connect.photo.pictures %}
                     <div class="padding-bottom-16px mdui-col-md-4 mdui-col-sm-6">
                         <div class="mdui-card mdui-shadow-2">
                             <div class="mdui-card-media k-post-media lazy" data-original="{{picture}}">
