@@ -33,7 +33,7 @@ card: # Meng card
   card_img_opacity: '0.8'
 
 live2d: # live2d ,see https://github.com/EYHN/hexo-helper-live2d
-  switch: false
+  switch: true
   model: "/assets/live2d/koharu/koharu.model.json" # model.json path
   drag: true # is drag ?
   in_mobile: false
@@ -63,7 +63,7 @@ music_player:
 
 head_card:
   switch: true
-  left_img: "https://ooo.0o0.ooo/2017/06/19/5947b272d418b.jpg"
-  left_text: "『 · 如果真爱有颜色 』"
-  right_img: "https://ooo.0o0.ooo/2017/06/08/5939484dc618e.png"
+  left_img: "https://s2.loli.net/2022/03/08/gDtjJfK2rdqoT7E.png"
+  left_text: "『  Ctrl+D快速收藏本站，地址可能随时失效。 』"
+  right_img: "https://s2.loli.net/2022/03/08/UD9xMv2ZiJ6T8E7.jpg"
   offset_level: 2
