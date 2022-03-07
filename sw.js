@@ -55,7 +55,7 @@ function update(request) {
 function fetchFromInternet(request) {
   var fetchRequset = request.clone();
   return fetch(fetchRequset).then(function(response) {
-   if (response.data.status !== 1 && response.data.status !== 200) {
+   if (!response || response.status !== 200 || response.type !== 'basic') {
             return response;
     }
     var responseToCache = response.clone();
