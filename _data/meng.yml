@@ -1,7 +1,7 @@
 title:  # Meng title
   switch: true # Meng title switch
-  visible: "(*´∇｀*) 被发现啦~" # State is visible text
-  hidden:  "(つェ⊂)看不到我~" # State is hidden text
+  visible: "(*´∇｀*) 欢迎回来！~" # State is visible text
+  hidden:  "(つェ⊂)偷偷藏起来~" # State is hidden text
   with_default_title: true # with default title
   reset_time: 1000 # If state is visible , reset default title times(ms)
 
@@ -11,8 +11,8 @@ cursor: # Meng cursor
   pointer_url: "https://ooo.0o0.ooo/2017/06/12/593ea3612fd77.png" # State is pointer style
 
 console: # Meng console info
-  switch: true # Meng console info switch
-  theme_info: true # output theme info
+  switch: false # Meng console info switch
+  theme_info: false # output theme info
   text: "Copyright © 2017 Jekyll-Theme-MDUI" # text
   color: "#fff" # text color
   background: "#448aff" # background color
@@ -52,14 +52,14 @@ music_player:
   player: "aplayer" #cplayer or aplayer
   button_color: "#1abc9c"
   music:
-    - title: 'Faded'
-      author: 'Alan Walker'
-      url: 'http://www.170mv.com/kw/other.web.rh01.sycdn.kuwo.cn/resource/n2/14/71/3899067167.mp3'
-      pic: 'http://p4.music.126.net/8dzD62VK8jLDbhEqkmpIAg==/18277181788626198.jpg?param=130y130'
-    - title: 'Unity'
-      author: 'TheFatRat'
-      url: 'http://www.170mv.com/kw/other.web.ri01.sycdn.kuwo.cn/resource/n2/44/7/1205252665.mp3'
-      pic: 'http://img4.kuwo.cn/star/starheads/240/72/35/3484765923.jpg'
+    - title: 'ツギハギスタッカート'
+      author: '拼凑的断音'
+      url: 'https://www.ytmp3.cn/down/76222.mp3'
+      pic: 'https://s2.loli.net/2022/03/08/UD9xMv2ZiJ6T8E7.jpg'
+    - title: 'Otokaze'
+      author: '夏恋'
+      url: 'https://www.ytmp3.cn/down/76233.mp3'
+      pic: 'https://s2.loli.net/2022/03/08/UD9xMv2ZiJ6T8E7.jpg'
 
 head_card:
   switch: true
