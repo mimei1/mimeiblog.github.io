@@ -1,10 +1,10 @@
-title: "Jekyll-Theme-MDUI"
-description: "A Jekyll theme based on MDUI"
+title: "迷妹精选 - 精品资源/图片/小说"
+description: "搜罗网红视频、网红写真集、福利小说，迷妹精选只收录精品。"
 url: 
 baseurl: ""
-author: "KeJun"
+author: "J0K1r"
 paginate: 5
-paginate_path: "/blog/page:num/"
+paginate_path: "/2022/page:num/"
 
 plugins:
   - jekyll-sitemap

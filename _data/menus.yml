@@ -1,21 +1,15 @@
-- name: HOME
+- name: 首页
   url: /
   icon: home
-- name: CATEGORY
+- name: 精选分类
   url: /category/
   icon: "&#xe53b;"
-- name: TAGS
+- name: 引路标签
   url: /tags/
   icon: "&#xe893;"
-- name: LOVER
-  url: /love/
+- name: 商务合作
+  url: /connect/
   icon: "&#xe87d;"
   color: "red"
-- name: FRIENDS
-  url: /friends/
-  icon: "&#xe8a3;"
-- name: EDITOR
-  url: /editor/
-  icon: "&#xe150;"
 - name: navSearch
   switch: true
