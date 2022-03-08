@@ -1,10 +1,10 @@
 {% if site.data.site.lang == null or site.data.site.lang == "" %}
-{% assign lang = site.data.lang.en-US %}
+{% assign lang = site.data.lang.zh-CN %}
 {% else %}
 {% assign lang = site.data.lang[site.data.site.lang] %}
 {% endif %}
 {% assign filename = page.url | replace_first: '/', '' | replace: '/', ''  | replace: '.html', '' | replace: 'category', '' %}
-{{filename}}
+
 <div class="k-posts-list"></div>
 
 <style>
@@ -56,7 +56,7 @@
       <div class="mdui-card-media mdui-ripple k-post-media lazy" data-original="{{post.img}}" style="background-image:url()">
         <div class="mdui-card-media-covered mdui-card-media-covered-gradient">
           <div class="mdui-card-primary">
-            <div class="mdui-card-primary-title"><a class="mdui-text-color-white-text" href="{{post.url| prepend: site.baseurl}}">{{post.title}}</a></div>
+            <div class="mdui-card-primary-title"><a class="mdui-text-color-white-text" href="{{post.url| prepend: site.baseurl}}">【{{post.cncategory}}】{{post.title}}</a></div>
           </div>
         </div>
       </div>
