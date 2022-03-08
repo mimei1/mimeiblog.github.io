@@ -4,7 +4,7 @@ title:  "人财两得"
 date:   2022-03-08 11:52:43 +0800
 categories: XiaoShuo
 tags: 乱伦 家庭
-img: https://s2.loli.net/2022/03/08/yOZnN7U6K4Ea9tT.png
+img: https://s2.loli.net/2022/03/08/HbGm7FNxXgtwep2.png
 ---
 
 曾振其有个幸福美满的家庭。
