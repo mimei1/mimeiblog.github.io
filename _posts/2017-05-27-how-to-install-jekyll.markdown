@@ -2,7 +2,7 @@
 layout: post
 title:  "如何安装 Jekyll ？"
 date:   2017-05-27 14:57:06 +0800
-categories: technology
+categories: XiaoShuo
 tags: jekyll ruby gem ubuntu
 img: https://ooo.0o0.ooo/2017/05/27/5929234e802ca.jpg
 ---
