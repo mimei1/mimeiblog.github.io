@@ -3,7 +3,6 @@ layout: post
 title:  "Jekyll Theme MDUI"
 date:   2017-5-29 12:22:06 +0800
 categories: Living
-cncategory：活跃
 tags: jekyll theme liquid
 img: https://ooo.0o0.ooo/2017/05/29/592ba283bfac9.jpg
 ---
