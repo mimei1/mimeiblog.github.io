@@ -32,7 +32,7 @@ sns_share: # SNS Share Switch
    telegram: true
 
 comment:
-  used: "" # disqus,livere,gitment,valine
+  used: "livere" # disqus,livere,gitment,valine
   # disqus config
   disqus_shortname: "" # Your disqus
   disqus_button: false # disqus load button
@@ -41,7 +41,7 @@ comment:
   disqus_api_key: "" # (Do not use)
   # livere config
   livere_type: 'city'
-  livere_data_uid: ''
+  livere_data_uid: 'MTAyMC8zOTI1NS8xNTc4Mg=='
   # gitment config
   owner: ""
   repo: ""
