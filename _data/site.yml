@@ -34,7 +34,7 @@ sns_share: # SNS Share Switch
 comment:
   used: "disqus" # disqus,livere,gitment,valine
   # disqus config
-  disqus_shortname: "mimei1" # Your disqus
+  disqus_shortname: "mi-mei-jing-pin" # Your disqus
   disqus_button: false # disqus load button
   disqus_proxy: false # # disqus proxy(Do not use)
   disqus_proxy_url: "" # (Do not use)
