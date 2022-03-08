@@ -1,11 +1,10 @@
 ---
 layout: post
-title: 人财两得
-date: 2022-03-08 11:52:43 +0800
+title:  "人财两得"
+date:   2022-03-08 11:52:43 +0800
 categories: XiaoShuo
-tags: 
+tags: 乱伦 家庭
 img: https://s2.loli.net/2022/03/08/yOZnN7U6K4Ea9tT.png
-describe：曾振其有个幸福美满的家庭，因为父母仅育有振其这个孩子，所以从小对他呵护备至，把他当个宝贝似的......
 ---
 
 曾振其有个幸福美满的家庭。
