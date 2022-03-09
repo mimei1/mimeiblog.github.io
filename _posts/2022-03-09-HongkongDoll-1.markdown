@@ -10,7 +10,7 @@ img: https://s2.loli.net/2022/03/08/gNeFotXAdnfMjwS.jpg
 
 ## 视频截图
 
-![vXrmYh.png](https://kanjiantu.top/images/2022/03/08/vXrmYh.png)
+![vXrmYh.png](https://s2.loli.net/2022/03/09/WCydVmOw4SxFNzX.png)
 
 ## 正文
 
@@ -21,5 +21,3 @@ img: https://s2.loli.net/2022/03/08/gNeFotXAdnfMjwS.jpg
 唯一资源电报群：[点我入群](https://t.me/mimeijingxuan)
 
 
-
-<iframe width="auto" height="auto" src="https://www.xvideos.com/embedframe/68629627" frameborder="0" allowfullscreen> </iframe>
