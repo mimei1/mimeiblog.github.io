@@ -60,7 +60,9 @@ prism:
 
 mathjax: true
 
-google_analytics: ""  # google analytics code
+google_analytics: "G-0DMFZQZ3HN"  # google analytics code
+
+cnzz: "<script type="text/javascript" src="https://v1.cnzz.com/z_stat.php?id=1279972601&web_id=1279972601"></script>"
 
 baidu_site_verification: ""  # baidu site verification code
 google_site_verification: ""  # google search console verification code
