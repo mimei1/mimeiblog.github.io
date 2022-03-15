@@ -19,7 +19,7 @@ img: https://kanjiantu.top/images/2022/03/14/vakUce.jpg
 
 ## 正文
 
-直通车（需翻墙）：[Telegram在线播放](https://t.me/mimeijingxuan/39)
+直通车（需翻墙）：[Telegram在线播放](https://t.me/mimeijingxuan/42)
 
 更多优质资源尽在**迷妹精选**！
 
