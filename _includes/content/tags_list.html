@@ -8,7 +8,7 @@
 
 <style>
     .k-tagcloud{
-    padding: 50px 10px;
+    padding: 38px 10px;
     margin: 9px 1px;
     line-height: 40px;
     text-decoration: none;
@@ -41,12 +41,12 @@
   {% assign fontsize = 14 %}
   {% assign color = 125 %}
   {% for i in (1..index) %}
-  {% capture fontsize %}{{fontsize | plus:1.5}}{% endcapture %}
+  {% capture fontsize %}{{fontsize | plus:1}}{% endcapture %}
   {% endfor %}
   {% for i in (1..index) %}
   {% capture color %}{{ color | minus :15}}{% endcapture %}
   {% endfor %}
-      <a id="{{ tag }}" class="k-tagcloud mdui-ripple mdui-hoverable" style="font-size:{{fontsize}}px;color:rgb({{color}},{{color}},{{color}})">{{ tag }}</a>
+      <a id="{{ tag }}" class="k-tagcloud mdui-ripple mdui-hoverable" style="font-size:34px;color:rgb({{color}},{{color}},{{color}})">{{ tag }}</a>
 {% endfor %}
 </div>
 <div class="mdui-row">
