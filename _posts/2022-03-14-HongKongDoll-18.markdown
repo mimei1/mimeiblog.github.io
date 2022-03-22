@@ -18,10 +18,12 @@ img: https://kanjiantu.top/images/2022/03/14/vaz787.jpg
 ![vazqPs.jpg](https://kanjiantu.top/images/2022/03/14/vazqPs.jpg)
 ![vazYCN.jpg](https://kanjiantu.top/images/2022/03/14/vazYCN.jpg)
 
-## 正文
+* * *
+## Telegram播放
 
 直通车（需翻墙）：[Telegram在线播放](https://t.me/mimeijingxuan/36)
 
+* * *
 更多优质资源尽在**迷妹精选**！
 
 唯一资源电报群：[点我入群](https://t.me/mimeijingxuan)

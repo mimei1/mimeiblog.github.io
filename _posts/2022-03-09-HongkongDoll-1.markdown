@@ -20,7 +20,7 @@ img: https://s2.loli.net/2022/03/09/WCydVmOw4SxFNzX.png
 
 * * *
 ## 在线播放
-<u>如视频加载不出来或显示空白，请翻墙</u>
+<u>如遇视频加载不出来或显示空白，请翻墙后刷新</u>
 
 <iframe width="100%" height="380" src="https://www.xvideos.com/embedframe/68974109" frameborder="0" allowfullscreen> </iframe>
 
