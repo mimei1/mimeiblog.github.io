@@ -16,6 +16,13 @@ img: https://s2.loli.net/2022/03/09/WCydVmOw4SxFNzX.png
 
 直通车（需翻墙）：[Telegram在线播放](https://t.me/mimeijingxuan/3)
 
+
+####  <u>**在线播放**</u>
+<u>**如视频加载不出来或显示空白，请翻墙**</u>
+<iframe width="auto" height="auto" src="https://www.xvideos.com/embedframe/68974109" frameborder="0" allowfullscreen> </iframe>
+
+
+
 更多优质资源尽在**迷妹精选**！
 
 唯一资源电报群：[点我入群](https://t.me/mimeijingxuan)
