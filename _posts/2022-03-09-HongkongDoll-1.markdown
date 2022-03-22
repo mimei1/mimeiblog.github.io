@@ -13,7 +13,7 @@ img: https://s2.loli.net/2022/03/09/WCydVmOw4SxFNzX.png
 ![vXrmYh.png](https://kanjiantu.top/images/2022/03/08/vXrmYh.png)
 
 * * *
-## 正文
+## Telegram播放
 
 直通车（需翻墙）：[Telegram在线播放](https://t.me/mimeijingxuan/3)
 
@@ -21,7 +21,7 @@ img: https://s2.loli.net/2022/03/09/WCydVmOw4SxFNzX.png
 * * *
 ## 在线播放
 <u>如视频加载不出来或显示空白，请翻墙</u>
-<iframe width="100%" height="auto" src="https://www.xvideos.com/embedframe/68974109" frameborder="0" allowfullscreen> </iframe>
+<iframe src="https://www.xvideos.com/embedframe/68974109" frameborder=0 width=510 height=400 scrolling=no allowfullscreen=allowfullscreen></iframe>
 
 
 * * *
