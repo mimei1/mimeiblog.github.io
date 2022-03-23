@@ -26,7 +26,7 @@ img: https://kanjiantu.top/images/2022/03/16/vaNa4p.jpg
 * * *
 ## 在线播放
 <u>如遇视频加载不出来或者显示空白请等待，如长时间等待请翻墙后刷新！</u>
-</center><video src="https://cdn.publer.io/uploads/videos/6239b2a5db279776e7bd37bc/fb4978eccd6ef406ac7ae18f8b581eaf.mp4" width="80%" height="680px" controls="controls"></video></center>
+<center><video src="https://cdn.publer.io/uploads/videos/6239b2a5db279776e7bd37bc/fb4978eccd6ef406ac7ae18f8b581eaf.mp4" width="80%" height="680px" controls="controls"></video></center>
 
 
 * * *

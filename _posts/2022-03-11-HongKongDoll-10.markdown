@@ -24,9 +24,8 @@ img: https://kanjiantu.top/images/2022/03/11/vX79CX.jpg
 直通车（需翻墙）：[Telegram在线播放](https://t.me/mimeijingxuan/30)
 
 * * *
-## 在线播放(Power by Xvideos)
+## 在线播放
 <u>如遇视频加载不出来或显示空白，请翻墙后刷新</u>
-
 <iframe width="100%" height="380" src="https://www.xvideos.com/embedframe/68974109" frameborder="0" allowfullscreen> </iframe>
 
 * * *
