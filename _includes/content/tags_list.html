@@ -33,6 +33,11 @@
 {% else %}
 <div class="">
 {% endif %}
+<div class="mdui-row">
+  <div class="mdui-col-sm-12">
+    <div id="taglist"></div>
+  </div>
+</div>
 <div class="mdui-card-content">
 {% include content/component/lazyload.html %}
 
@@ -48,11 +53,6 @@
   {% endfor %}
       <a id="{{ tag }}" class="k-tagcloud mdui-ripple mdui-hoverable" style="font-size:34px;color:rgb({{color}},{{color}},{{color}})">{{ tag }}</a>
 {% endfor %}
-</div>
-<div class="mdui-row">
-  <div class="mdui-col-sm-12">
-    <div id="taglist"></div>
-  </div>
 </div>
 </div>
 
