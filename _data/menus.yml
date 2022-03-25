@@ -1,13 +1,13 @@
-- name: 首页
+- name: 首頁
   url: /
   icon: home
-- name: 精选分类
+- name: 精選分類
   url: /category/
   icon: "&#xe53b;"
-- name: 引路标签
+- name: 標簽索引
   url: /tags/
   icon: "&#xe893;"
-- name: 商务合作
+- name: 商務合作
   url: /connect/
   icon: "&#xe87d;"
   color: "red"
