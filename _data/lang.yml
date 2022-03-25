@@ -1,33 +1,33 @@
 zh-CN:
    meng:
       head_card: 
-          rss: "订阅"
-          sitemap: "站点地图"
+          rss: "訂閱"
+          sitemap: "站點地圖"
    editor: 
-      content: "内容"
+      content: "內容"
       frontmatter:
          name: "Front Matter"
-         title: "标题"
+         title: "標題"
          date: "日期"
-         categories: "分类"
-         tags: "标签"
-         image: "图像"
-      preview: "预览"
-      download: "下载"
+         categories: "分類"
+         tags: "標簽"
+         image: "圖像"
+      preview: "預覽"
+      download: "下載"
    lastupdate: 
-      one: "本文更新于"
-      two: "天前，味道可能有所改变，如有失效资源请与管理员联系。"
+      one: "本文更新於"
+      two: "天前，資源可能已經失效，如有失效資源請與管理員聯系。"
    readtime: 
-      one: "阅读本文大概需要"
-      two: "分钟"
+      one: "閱讀本文大概需要"
+      two: "分鐘"
    page:
       search: "搜索"
    post:
-      continue: "阅读全文"
-      qrcode: "二维码"
-      qrcodeContent: "在其它设备中阅读本文章"
-      comments_load_button: "阅读评论 「请确保 Disqus 可以正常加载」"
-      tags: "标签"
+      continue: "閱讀全文"
+      qrcode: "二維碼"
+      qrcodeContent: "在其它設備中閱讀本文章"
+      comments_load_button: "閱讀評論 「請確保 Disqus 可以正常加載」"
+      tags: "標簽"
    share:
       share: "分享"
       toWeibo: "分享到 微博"
@@ -38,9 +38,9 @@ zh-CN:
       toQq: "分享到 QQ"
       toTelegram: "分享到 Telegram"
    error:
-      main: "错误"
+      main: "錯誤"
       404x: "404未找到"
-      403x: "403资源不可用"
+      403x: "403資源不可用"
 en-US:
    meng:
       head_card: 

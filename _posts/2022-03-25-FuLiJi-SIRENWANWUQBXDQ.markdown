@@ -8,7 +8,7 @@ img: https://kanjiantu.top/images/2022/03/25/v3miqN.jpg
 ---
 
 
-## 视频截图
+## 視頻截圖
 
 ![v3miqN.jpg](https://kanjiantu.top/images/2022/03/25/v3miqN.jpg)
 ![v3mfcU.jpg](https://kanjiantu.top/images/2022/03/25/v3mfcU.jpg)
@@ -21,17 +21,19 @@ img: https://kanjiantu.top/images/2022/03/25/v3miqN.jpg
 * * *
 ## Telegram播放
 
-直通车（需翻墙）：[Telegram在线播放](https://t.me/mimeijingxuan)
+直通車（需翻墻）：[Telegram在線播放](https://t.me/mimeijingxuan)
 
 * * *
-## 在线播放
-<u>如遇视频加载不出来或者显示空白请等待，如长时间等待请翻墙后刷新！</u>
+## 在線播放
+<u>客官别着急，视频正在努力加载，如长时间等待视频无法加载或者播放卡顿建议更换节点！</u>
+
+<u>建議使用UC瀏覽器、歐朋瀏覽器訪問本站，可直接緩存本站視頻，激情又給力！</u>
 <center><video src="https://cdn.publer.io/uploads/videos/623d3c62db279760bbfbdd85/1c8b3970706bbcccfe203c31a704d38f.mp4" width="100%" height="380px" controls="controls"></video></center>
 
 
 * * *
-更多优质资源尽在**迷妹精选**！
+更多優質資源盡在**迷妹精選**！
 
-唯一资源电报群：[点我入群](https://t.me/mimeijingxuan)
+唯一資源電報群：[點我入群](https://t.me/mimeijingxuan)
 
 

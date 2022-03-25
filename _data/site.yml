@@ -2,7 +2,7 @@ head:
    favicon: "https://s2.loli.net/2022/03/08/WjDlpXo7akcxvMN.png" #  the favicon
    high_res_favicon: "https://s2.loli.net/2022/03/08/WjDlpXo7akcxvMN.png" #  the favicon using high quality format
    apple_touch_icon: "https://s2.loli.net/2022/03/08/WjDlpXo7akcxvMN.png" # the iOS Home button icon
-   keywords: "精品视频,极品主播,好看的小说"
+   keywords: "福利姬视频、网红视频、肉欲小说、福利视频、迷妹动漫"
 
 uiux:
    android_chrome_color: "#eeeeee" #  the color of the Chrome address bar
@@ -50,7 +50,7 @@ comment:
   #valine config
   valine_app_id: ''
   valine_app_key: ''
-  valine_placeholder: "ヾﾉ≧∀≦)o来啊，快活啊!"
+  valine_placeholder: "ヾﾉ≧∀≦)o來啊，快活啊!"
 
 prism:
   themes: prism-okaidia

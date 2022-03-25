@@ -8,26 +8,28 @@ img: https://s2.loli.net/2022/03/09/WCydVmOw4SxFNzX.png
 ---
 
 
-## 视频截图
+## 視頻截圖
 
 ![vXrmYh.png](https://kanjiantu.top/images/2022/03/08/vXrmYh.png)
 
 * * *
 ## Telegram播放
 
-直通车（需翻墙）：[Telegram在线播放](https://t.me/mimeijingxuan/3)
+直通車（需翻墻）：[Telegram在線播放](https://t.me/mimeijingxuan/3)
 
 
-* * *
-## 在线播放
-<u>如遇视频加载不出来或显示空白，请翻墙后刷新</u>
+* * * 
+## 在線播放
+<u>客官别着急，视频正在努力加载，如长时间等待视频无法加载或者播放卡顿建议更换节点！</u>
+
+<u>建議使用UC瀏覽器、歐朋瀏覽器訪問本站，可直接緩存本站視頻，激情又給力！</u>
 
 <iframe width="100%" height="380" src="https://www.xvideos.com/embedframe/68974109" frameborder="0" allowfullscreen> </iframe>
 
 
 * * *
-更多优质资源尽在**迷妹精选**！
+更多優質資源盡在**迷妹精選**！
 
-唯一资源电报群：[点我入群](https://t.me/mimeijingxuan)
+唯一資源電報群：[點我入群](https://t.me/mimeijingxuan)
 
 

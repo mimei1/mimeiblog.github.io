@@ -8,7 +8,7 @@ img: https://kanjiantu.top/images/2022/03/14/vakid7.jpg
 ---
 
 
-## 视频截图
+## 視頻截圖
 
 ![vakid7.jpg](https://kanjiantu.top/images/2022/03/14/vakid7.jpg)
 ![vakf32.jpg](https://kanjiantu.top/images/2022/03/14/vakf32.jpg)
@@ -19,11 +19,11 @@ img: https://kanjiantu.top/images/2022/03/14/vakid7.jpg
 * * *
 ## Telegram播放
 
-直通车（需翻墙）：[Telegram在线播放](https://t.me/mimeijingxuan/37)
+直通車（需翻墻）：[Telegram在線播放](https://t.me/mimeijingxuan/37)
 
 * * *
-更多优质资源尽在**迷妹精选**！
+更多優質資源盡在**迷妹精選**！
 
-唯一资源电报群：[点我入群](https://t.me/mimeijingxuan)
+唯一資源電報群：[點我入群](https://t.me/mimeijingxuan)
 
 

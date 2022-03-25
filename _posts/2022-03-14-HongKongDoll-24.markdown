@@ -8,7 +8,7 @@ img: https://kanjiantu.top/images/2022/03/14/vakUce.jpg
 ---
 
 
-## 视频截图
+## 視頻截圖
 
 ![vakUce.jpg](https://kanjiantu.top/images/2022/03/14/vakUce.jpg)
 ![vaknqK.jpg](https://kanjiantu.top/images/2022/03/14/vaknqK.jpg)
@@ -20,11 +20,11 @@ img: https://kanjiantu.top/images/2022/03/14/vakUce.jpg
 * * *
 ## Telegram播放
 
-直通车（需翻墙）：[Telegram在线播放](https://t.me/mimeijingxuan/42)
+直通車（需翻墻）：[Telegram在線播放](https://t.me/mimeijingxuan/42)
 
 * * *
-更多优质资源尽在**迷妹精选**！
+更多優質資源盡在**迷妹精選**！
 
-唯一资源电报群：[点我入群](https://t.me/mimeijingxuan)
+唯一資源電報群：[點我入群](https://t.me/mimeijingxuan)
 
 

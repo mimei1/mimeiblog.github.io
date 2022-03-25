@@ -8,7 +8,7 @@ img: https://kanjiantu.top/images/2022/03/14/vazB1j.jpg
 ---
 
 
-## 视频截图
+## 視頻截圖
 
 ![vazB1j.jpg](https://kanjiantu.top/images/2022/03/14/vazB1j.jpg)
 ![vazPUg.jpg](https://kanjiantu.top/images/2022/03/14/vazPUg.jpg)
@@ -21,11 +21,11 @@ img: https://kanjiantu.top/images/2022/03/14/vazB1j.jpg
 * * *
 ## Telegram播放
 
-直通车（需翻墙）：[Telegram在线播放](https://t.me/mimeijingxuan/35)
+直通車（需翻墻）：[Telegram在線播放](https://t.me/mimeijingxuan/35)
 
 * * *
-更多优质资源尽在**迷妹精选**！
+更多優質資源盡在**迷妹精選**！
 
-唯一资源电报群：[点我入群](https://t.me/mimeijingxuan)
+唯一資源電報群：[點我入群](https://t.me/mimeijingxuan)
 
 
