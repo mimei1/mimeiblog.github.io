@@ -6,7 +6,7 @@ title:  # Meng title
   reset_time: 1000 # If state is visible , reset default title times(ms)
 
 cursor: # Meng cursor
-  switch: false # Meng cursor switch
+  switch: true # Meng cursor switch
   auto_url: "https://ooo.0o0.ooo/2017/06/12/593ea1901c930.png" # State is auto style
   pointer_url: "https://ooo.0o0.ooo/2017/06/12/593ea3612fd77.png" # State is pointer style
 
@@ -34,7 +34,7 @@ card: # Meng card
 
 live2d: # live2d ,see https://github.com/EYHN/hexo-helper-live2d
   switch: true
-  model: "/assets/live2d/koharu/koharu.model.json" # model.json path
+  model: "https://cdn.jsdelivr.net/npm/live2d-widget-model-wanko@1.0.5/assets/wanko.model.json" # model.json path
   drag: true # is drag ?
   in_mobile: false
   width: 130 # canvas width
@@ -67,4 +67,4 @@ head_card:
   left_img: "https://s2.loli.net/2022/03/08/gDtjJfK2rdqoT7E.png"
   left_text: "『  Ctrl+D快速收藏本站，地址可能随时失效。 』"
   right_img: "https://s2.loli.net/2022/03/08/svrwxiFJXe6EDCI.png"
-  offset_level: 0
+  offset_level: 10
