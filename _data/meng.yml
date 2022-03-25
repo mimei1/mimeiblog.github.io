@@ -22,7 +22,7 @@ header: # Meng header color + theme-color
 
 background: # Meng background
   switch: true
-  background_img: "https://s2.loli.net/2022/03/08/BtZNL8QmApxrzJU.jpg"
+  background_img: "https://s2.loli.net/2022/03/25/H7BDr2SNoTG1FAV.jpg"
   transparent_header: true
   transparent_footer: false
   text_color: '#000'
@@ -33,7 +33,7 @@ card: # Meng card
   card_img_opacity: '0.8'
 
 live2d: # live2d ,see https://github.com/EYHN/hexo-helper-live2d
-  switch: false
+  switch: true
   model: "/assets/live2d/koharu/koharu.model.json" # model.json path
   drag: true # is drag ?
   in_mobile: false
