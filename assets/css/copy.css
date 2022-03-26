@@ -1,6 +1,6 @@
 * {padding: 0;margin: 0;font-family: arial;}
 a {text-decoration: none;}
-.tc{width: 385px;height: 324px;border: 5px solid #e96f83;border-radius: 10px;position:fixed;top:0;right:0;left:0;bottom:0;margin:auto;background: #fff;}
+.tc{width: 373px;height: 324px;border: 5px solid #e96f83;border-radius: 10px;position:fixed;top:0;right:0;left:0;bottom:0;margin:auto;background: #fff;}
 .tc1{line-height: 38px;font-size: 30px;font-weight: bold;text-align: center;color: #e96f83;padding-top: 46px;}
 .mp{line-height: 36px;font-size: 16px;text-align: center;padding-top: 18px;padding-bottom: 18px;}
 .check{line-height: 30px;font-size: 18px;text-align: center;padding-bottom: 10px;}
