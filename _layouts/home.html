@@ -1,9 +1,12 @@
 ---
 layout: default
 ---
+
 <div class="k-container">
- 
-	<div>{% include content/friends.html %}</div>
+	<div>
+	{% include content/friends.html %}
+	{% include content/tips.html %}
+	</div>
     {% if site.data.site.uiux.meng == true %}
     {% if site.data.meng.head_card.switch == true %}
             {% assign num = site.data.meng.head_card.offset_level %}
@@ -18,5 +21,4 @@ layout: default
 
     {% include content/paginator_post_list.html %}
     {% include content/paginator_button.html %}
-	{% include content/tips.html %}
 </div>
