@@ -1,0 +1,44 @@
+<script src="../assets/js/jquery-3.3.1.min.js"></script>
+<script src="../assets/js/ft.js"></script>
+<script type="text/javascript">
+
+(function(){
+	var phoneWidth = parseInt(window.screen.width),
+		phoneScale = phoneWidth/640,
+		ua = navigator.userAgent;
+	if (/Android (\d+\.\d+)/.test(ua)){
+		var version = parseFloat(RegExp.$1);
+		if(version > 2.3){
+			//判断安卓
+			document.write('<meta name="viewport" content="width=device-width, initial-scale=0.75, minimum-scale=0.75, maximum-scale=0.75, user-scalable=no">');
+		}
+	} else {
+		//判断ios屏幕宽度
+		document.write('<meta name="viewport" content="width=device-width, initial-scale=0.76, minimum-scale=0.76, maximum-scale=0.76, user-scalable=no">');
+	}
+})();
+
+</script>
+
+<link rel="stylesheet" type="text/css" href="css/copy.css">
+</head>
+<body>
+<div id="d1"  class="cox xs">
+	<div class="tc">
+		<div class="tc1">
+		WARNING <br />
+		警告！
+		</div>
+		<div class="mp">
+			您是否已滿18歲？內有成人內容，訪問之前請確保您已滿18歲，否則請勿進入！
+		</div>
+		<div class="check">
+			<input type="checkbox" name="agree" id="agree" class="checkbox btton" onClick="jQuery(&#39;.cox&#39;)" >  本人已滿18。
+		</div>
+		<div class="redbox">
+			<div class="buttonred mar">
+				<input type="submit" value="访问网站" class="btn btn1 close" onClick="jQuery(&#39;.cox&#39;).hide()"> 
+			</div>	
+		</div>
+	</div>	
+</div>	
