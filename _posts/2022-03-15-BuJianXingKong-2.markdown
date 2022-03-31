@@ -27,7 +27,7 @@ img: https://kanjiantu.top/images/2022/03/15/vairAJ.jpg
 <u>客官别着急，视频正在努力加载，如长时间等待视频无法加载或者播放卡顿建议更换节点！</u>
 
 <u>建議使用UC瀏覽器、歐朋瀏覽器訪問本站，可直接緩存本站視頻，激情又給力！</u>
-<center><video src="https://cdn.publer.io/uploads/videos/6239ead4db27970e87321b8e/c12c917958b383163965d5f2823432c7.mp4" width="100%" height="380px"  controls="controls"></video></center>
+<center><video src="https://cdn.publer.io/uploads/videos/624537a5db2797794f146f4d/7f0868c24871d3047fe08c2e18f4e0f6.mp4" width="100%" height="380px"  controls="controls"></video></center>
 
 * * *
 更多優質資源盡在**迷妹精選**！
