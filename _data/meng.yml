@@ -64,6 +64,7 @@ music_player:
 
 head_card:
   switch: true
+  tips_text1: 本站宗旨：收錄全面丶更新及時丶安全純凈丶 拒絕虛假欺騙丶惡意插件丶強製彈窗丶病毒木馬
   left_img: "https://s2.loli.net/2022/03/08/gDtjJfK2rdqoT7E.png"
   left_text: ""
   right_img: "https://s2.loli.net/2022/03/08/svrwxiFJXe6EDCI.png"
