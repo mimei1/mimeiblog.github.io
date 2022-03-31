@@ -19,7 +19,7 @@ img: https://kanjiantu.top/images/2022/03/26/v3Ip1U.jpg
 * * *
 ## Telegram播放
 
-直通車（需翻墻）：[Telegram在線播放](https://t.me/mimeijingxuan/368)
+直通車（需翻墻)：[Telegram在線播放](https://t.me/mimeijingxuan/368)
 
 * * *
 ## 在線播放
