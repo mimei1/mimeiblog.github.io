@@ -3,7 +3,7 @@ function a(){
 	div.style.display="block"
 	}
 	window.onload=function(){
-	setTimeout("a()",3000);
+	setTimeout("a()",1500);
 	}
 
 $(document).ready(function(){
