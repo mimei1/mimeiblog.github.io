@@ -25,6 +25,12 @@ img: https://kanjiantu.top/images/2022/03/11/vX7DJz.jpg
 直通車（需翻墻）：[Telegram在線播放](https://t.me/mimeijingxuan/28)
 
 * * *
+## 在线播放
+<u>如遇视频加载不出来或者显示空白请等待，如长时间等待请翻墙后刷新！</u>
+<center><video src="https://cdn.publer.io/uploads/videos/6245aa7ddb2797743f72971b/834cc578f53862929e27f3ed3b1b86b0.mp4" width="100%" height="380px" controls="controls"></video></center>
+
+
+* * *
 更多優質資源盡在**迷妹精選**！
 
 唯一資源電報群：[點我入群](https://t.me/mimeijingxuan)
