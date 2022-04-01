@@ -50,31 +50,31 @@
     <div class="animated fadeInUp mdui-card k-list-card mdui-shadow-{{site.data.site.card.card_shadow}} {% if site.data.site.card.card_hoverable == true%}mdui-hoverable{% endif %}">
       {% if post.img == "" or post.img == null %}
       <div class="mdui-card-media mdui-ripple k-post-media mdui-valign k-noimg">
-        <h1><a href="{{post.url| prepend: site.baseurl}}">{{post.title}}</a></h3>
+        <h1><a href="{{post.url| prepend: site.baseurl}}" target="_blank">{{post.title}}</a></h3>
       </div>
       {% else %}
       <div class="mdui-card-media mdui-ripple k-post-media lazy" data-original="{{post.img}}" style="background-image:url()">
         <div class="mdui-card-media-covered mdui-card-media-covered-gradient">
           <div class="mdui-card-primary">
-            <div class="mdui-card-primary-title"><a class="mdui-text-color-white-text" href="{{post.url| prepend: site.baseurl}}">{{post.title}}</a></div>
+            <div class="mdui-card-primary-title"><a class="mdui-text-color-white-text" href="{{post.url| prepend: site.baseurl}}" target="_blank">{{post.title}}</a></div>
           </div>
         </div>
       </div>
       {% endif %}
 	  {% if post.describe != null %}
       <div class="mdui-card-content mdui-text-color-black-secondary mdui-typo">
-        {{ post.describe}} <a href="{{post.url | prepend: site.baseurl}}">{{lang.post.continue}}</a>
+        {{ post.describe}} <a href="{{post.url | prepend: site.baseurl}}" target="_blank">{{lang.post.continue}}</a>
       </div>
       {% else %}
       <div class="mdui-card-content mdui-text-color-black-secondary mdui-typo">
-        {{ post.excerpt | strip_html}} <a href="{{post.url | prepend: site.baseurl}}">{{lang.post.continue}}</a>
+        {{ post.excerpt | strip_html}} <a href="{{post.url | prepend: site.baseurl}}" target="_blank">{{lang.post.continue}}</a>
       </div>
 	  {% endif %}
       <div class="mdui-divider"></div>
       <div class="mdui-card-header">
         <div class="mdui-card-menu mdui-typo">
           {% for category in post.categories %}
-            <a class="k-post-categories" href="{{ "/category" | prepend: site.baseurl }}/{{category}}.html">{{category}}</a>
+            <a class="k-post-categories" href="{{ "/category" | prepend: site.baseurl }}/{{category}}.html" target="_blank">{{category}}</a>
           {% endfor %}
         </div>
         {% if site.data.site.many_authors == true %}

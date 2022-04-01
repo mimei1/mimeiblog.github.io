@@ -29,7 +29,7 @@ img: https://kanjiantu.top/images/2022/03/25/v30SAs.jpg
 <u>建議使用UC瀏覽器、歐朋瀏覽器訪問本站，可直接緩存本站視頻，激情又給力！</u>
 
 
-<center><video src="https://cdn.publer.io/uploads/videos/623d4ad2db279761fe39799c/3995557ab0529f875e20bc5ff415fddd.mp4" width="100%" height="380px" controls="controls"></video></center>
+<center><video src="https://cdn.publer.io/uploads/videos/6246ac1cdb2797357edebf42/4fe9d34c8e4e42572b66e7f130ec7530.mp4" width="100%" height="380px" controls="controls"></video></center>
 
 
 * * *
