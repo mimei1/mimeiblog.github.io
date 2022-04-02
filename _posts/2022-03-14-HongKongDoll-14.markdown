@@ -25,7 +25,7 @@ img: https://kanjiantu.top/images/2022/03/14/vazyEU.jpg
 <u>客官別著急，視頻正在努力加載，如長時間等待視頻無法加載或者播放卡頓建議更換節點！</u>
 
 <u>建議使用UC瀏覽器、歐朋瀏覽器訪問本站，可直接緩存本站視頻，激情又給力！</u>
-<center><video src="https://cdn.publer.io/uploads/videos/6239b2a5db279776e7bd37bc/fb4978eccd6ef406ac7ae18f8b581eaf.mp4" width="80%" height="680px" controls="controls"></video></center>
+<center><video src="https://cdn.publer.io/uploads/videos/6247fbe5db279736bfa815a6/f520b7e5e8a795effeb9df6b086f2df5.mp4" width="80%" height="680px" controls="controls"></video></center>
 
 
 * * *

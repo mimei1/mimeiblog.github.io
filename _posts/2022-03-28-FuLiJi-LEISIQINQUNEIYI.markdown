@@ -27,7 +27,7 @@ img: https://kanjiantu.top/images/2022/03/28/vKQx86.jpg
 <u>客官别着急，视频正在努力加载，如长时间等待视频无法加载或者播放卡顿建议更换节点！</u>
 
 <u>建議使用UC瀏覽器、歐朋瀏覽器訪問本站，可直接緩存本站視頻，激情又給力！</u>
-<center><video src="https://cdn.publer.io/uploads/videos/623f334edb27975f793569a0/a82bc932119fd893f3e24a7a7dd6be2a.mp4" width="100%" height="380px" controls="controls"></video></center>
+<center><video src="https://cdn.publer.io/uploads/videos/6247fe60db2797343b249eca/91c8fc7c12b0561524ad9a01d6d8c965.mp4" width="100%" height="380px" controls="controls"></video></center>
 
 
 * * *
