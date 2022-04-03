@@ -22,8 +22,8 @@ img: https://kanjiantu.top/images/2022/03/26/v3qrp9.jpg
 
 直通車（需翻墻)：[Telegram在線播放](https://t.me/mimeijingxuan/284)
 
-<u>站长强推72稳定加速器：</u> [十秒注册、一键翻墙](https://www.mimei.blog/skip/vpn.html)
-<u>急速秒播不卡顿，限时活动更优惠！！！</u>
+<u>站长强推72稳定加速器：</u> 【 [十秒注册、一键翻墙](https://www.mimei.blog/skip/vpn.html) 】
+<u>  急速秒播不卡顿，限时活动更优惠！！！</u>
 * * *
 ## 在線播放
 <u>客官别着急，视频正在努力加载，如长时间等待视频无法加载或者播放卡顿建议更换节点！</u>
