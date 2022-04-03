@@ -56,7 +56,7 @@ img: https://kanjiantu.top/images/2022/04/02/vsjkA0.jpg
 
 直通車（需翻墻)：[Telegram在線播放](https://t.me/mimeijingxuan/429)
 
-<u>站长强推72稳定加速器：[十秒注册、一键翻墙](https://www.mimei.blog/skip/vpn.html) </u>
+<u>站长强推72稳定加速器：</u> [十秒注册、一键翻墙](https://www.mimei.blog/skip/vpn.html)
 
 
 <u>急速秒播不卡顿，限时活动更优惠！！！</u>
@@ -66,7 +66,7 @@ img: https://kanjiantu.top/images/2022/04/02/vsjkA0.jpg
 
 <u>建議使用UC瀏覽器、歐朋瀏覽器訪問本站，可直接緩存本站視頻，激情又給力！</u>
 <center><video src="https://cdn.publer.io/uploads/videos/62481827db279736bfa816b2/f298e8283f7ea35b9830ebd0bf8c889d.mp4" width="100%" height="380px" controls="controls"></video></center>
-<u>站长强推72稳定加速器：[十秒注册、一键翻墙](https://www.mimei.blog/skip/vpn.html) </u>
+<u>站长强推72稳定加速器：</u> [十秒注册、一键翻墙](https://www.mimei.blog/skip/vpn.html)
 
 
 <u>急速秒播不卡顿，限时活动更优惠！！！</u>
@@ -76,7 +76,7 @@ img: https://kanjiantu.top/images/2022/04/02/vsjkA0.jpg
 
 <u>建議使用UC瀏覽器、歐朋瀏覽器訪問本站，可直接緩存本站視頻，激情又給力！</u>
 <center><video src="https://cdn.publer.io/uploads/videos/62481883db2797343b249fe5/c25d93dee1eacc1865cff9d23836085b.mp4" width="100%" height="380px" controls="controls"></video></center>
-<u>站长强推72稳定加速器：[十秒注册、一键翻墙](https://www.mimei.blog/skip/vpn.html) </u>
+<u>站长强推72稳定加速器：</u> [十秒注册、一键翻墙](https://www.mimei.blog/skip/vpn.html)
 
 
 <u>急速秒播不卡顿，限时活动更优惠！！！</u>
