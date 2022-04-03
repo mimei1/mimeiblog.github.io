@@ -24,8 +24,12 @@ img: https://kanjiantu.top/images/2022/03/11/vX7DJz.jpg
 
 直通車（需翻墻）：[Telegram在線播放](https://t.me/mimeijingxuan/28)
 
+<u>站长强推72稳定加速器：[十秒注册、一键翻墙](https://72vpn.xyz/#/register?code=mimei) </u>
+
+
+<u>急速秒播不卡顿，限时活动更优惠！！！</u>
 * * *
-## 在线播放
+## 在線播放
 <u>如遇视频加载不出来或者显示空白请等待，如长时间等待请翻墙后刷新！</u>
 <center><video src="https://cdn.publer.io/uploads/videos/6245aa7ddb2797743f72971b/834cc578f53862929e27f3ed3b1b86b0.mp4" width="100%" height="380px" controls="controls"></video></center>
 
