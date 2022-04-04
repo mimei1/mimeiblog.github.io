@@ -15,7 +15,7 @@ img: https://kanjiantu.top/images/2022/03/10/vXnwMN.jpg
 ![vXnWUr.jpg](https://kanjiantu.top/images/2022/03/10/vXnWUr.jpg)
 ![vXnm86.jpg](https://kanjiantu.top/images/2022/03/10/vXnm86.jpg)
 
-<u>站长强推72稳定加速器：</u> 【 [十秒注册、一键翻墙](https://www.mimei.blog/skip/vpn.html) 】
+<u>站长强推72稳定加速器：</u> 【 [十秒注册、一键翻墙](https://72vpn.xyz/#/register?code=mimei) 】
 <u>  急速秒播不卡顿，限时活动更优惠！！！</u>
 * * *
 ## 在線播放
