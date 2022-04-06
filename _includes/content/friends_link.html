@@ -5,9 +5,7 @@
 </style>
 <div class="k-posts-list"></div>
 <div class="mdui-container">
-    <div class="mdui-row-sm-2 mdui-row-md-5">
         {% for l in site.data.friends_link %}
-        <div class="mdui-col">
             <a class="k-friend" href="{{l.url}}" target="_blank">
 			<div class="mdui-chip">
 			<span class="mdui-chip-icon mdui-color-red">
@@ -16,8 +14,5 @@
 			<span class="mdui-chip-title">{{l.name}}</span>
 			</div>
             </a>
-            <br>
-        </div>
         {% endfor %}
-    </div>
 </div>
