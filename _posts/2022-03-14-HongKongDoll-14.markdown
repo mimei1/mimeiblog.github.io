@@ -20,8 +20,7 @@ img: https://kanjiantu.top/images/2022/03/14/vazyEU.jpg
 
 直通車（需翻墻）：[Telegram在線播放](https://t.me/mimeijingxuan/32)
 
-<u>站长强推72稳定加速器：</u> 【 [十秒注册、一键翻墙](https://72vpn.xyz/#/register?code=mimei) 】
-<u>  急速秒播不卡顿，限时活动更优惠！！！</u>
+<u>大陸地區的用戶使用Telegram播放必須使用VPN代理，未使用VPN時可能無法擁有良好的體驗感。</u> 
 * * *
 ## 在線播放
 <u>客官別著急，視頻正在努力加載，如長時間等待視頻無法加載或者播放卡頓建議更換節點！</u>
